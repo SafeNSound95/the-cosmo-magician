@@ -21,11 +21,11 @@ While I learned A LOT, I still however, take my time to improve many things for 
 
 ### Screenshot
 
-![](<(2023-09-19-the-cosmos-magician-1.png)>)
+![](2023-09-19-the-cosmos-magician-1.png)
 
 ### Links
 
-- Live Site URL: [https://preview-card-saif.netlify.app/]
+- Live Site URL: [https://the-cosmos-magician-saif.netlify.app/]
 
 ## My process
 
