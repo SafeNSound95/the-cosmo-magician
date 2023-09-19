@@ -17,7 +17,7 @@ After my last project(challenge), I felt like I need to study more of - among ot
 as promised, I took my time through multiple sources, and I plan to go through even more but as a start? I'm pretty proud of this one, I'd say it works marvelously from 375px all the way to desktop widths.
 this project is based largely on the net ninja's "mobile first responsive build series https://www.youtube.com/watch?v=PM3XW_1RAIs&list=PL4cUxeGkcC9hH1tAjyUPZPjbj-7s200a4&index=1 " so lots of thanks goes out to him.
 
-While I learned A LOT, I still however, take my time to improve many things for the project, it's been really fun and I tried to perfect it as much as possible with many changes in both code and aesthetics.
+While I learned A LOT, I still however, took my time to improve many things for the project, it's been really fun and I tried to perfect it as much as possible with many changes in both code and aesthetics.
 
 ### Screenshot
 
